@@ -20,6 +20,11 @@
 ### Databases:
 - MongoDB | Firebase
 
+### Tools:
+- Docker
+- Git
+- Cloud functions
+
 ### How to reach me ?
 
 [<img src="./icons/twitter_icon.png" width="30" height="30">](https://twitter.com/Hasham_681)&nbsp;
