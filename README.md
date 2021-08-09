@@ -12,7 +12,8 @@
 - Bootstrap
 
 ### Back-end development:
-- Nodejs | Express | Flask
+- Nodejs | Express
+- Flask | Django
 
 ### Mobile development:
 - React Native
@@ -23,7 +24,6 @@
 ### Tools:
 - Docker
 - Git
-- Cloud functions
 
 ### How to reach me ?
 
