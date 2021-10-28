@@ -24,6 +24,7 @@
 ### Tools:
 - Docker
 - Git
+- Gitlab
 
 ### How to reach me ?
 
