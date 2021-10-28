@@ -17,6 +17,7 @@
 
 ### Mobile development:
 - React Native
+- Flutter
 
 ### Databases:
 - MongoDB | Firebase
