@@ -2,17 +2,17 @@
 <hr />
 
 ### Programming Languages:
-- Javascript
-- Typescript
+- JavaScript
+- TypeScript
 - Python
 
 ### Front-end development:
 - HTML | CSS | SCSS | JS
 - React | Redux | Redux-thunk
-- Bootstrap
+- Bootstrap | Tailwind
 
 ### Back-end development:
-- Nodejs | Express
+- Nodejs | Express | NestJS
 - Flask | Django
 
 ### Mobile development:
@@ -26,6 +26,12 @@
 - Docker
 - Git
 - Gitlab
+
+### Currently Learning:
+- Ansible
+- AWS
+- Kubernetes
+- 3D
 
 ### How to reach me ?
 
