@@ -6,12 +6,12 @@
 - TypeScript
 - Python
 
-### Front-end development:
+### Frontend development:
 - HTML | CSS | SCSS | JS
 - React | Redux | Redux-thunk
 - Bootstrap | Tailwind
 
-### Back-end development:
+### Backend development:
 - Nodejs | Express | NestJS
 - Flask | Django
 
@@ -28,10 +28,10 @@
 - Gitlab
 
 ### Currently Learning:
-- Ansible
-- AWS
-- Kubernetes
 - 3D
+- Rust (for WASM)
+- GoLang (for BE)
+- Elixir (for FUN!)
 
 ### How to reach me ?
 
