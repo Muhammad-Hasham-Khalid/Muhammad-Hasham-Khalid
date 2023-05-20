@@ -37,4 +37,4 @@
 
 [<img src="./icons/twitter_icon.png" width="30" height="30">](https://twitter.com/hashiinngg)&nbsp;
 [<img src="./icons/ig_icon.png" width="30" height="30">](https://www.instagram.com/hashiinngg/)&nbsp;
-[<img src="./icons/linkedin_icon.png" width="30" height="30">](https://www.linkedin.com/in/hashamk/)
+[<img src="./icons/linkedin_icon.png" width="30" height="30">](https://www.linkedin.com/in/hashiinngg/)
