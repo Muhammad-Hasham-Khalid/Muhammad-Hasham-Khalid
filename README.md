@@ -7,9 +7,10 @@
 - Python
 
 ### Frontend development:
-- HTML | CSS | SCSS | JS
-- React | Redux | Redux-thunk
-- Bootstrap | Tailwind
+- HTML | CSS | SCSS | JS | TS
+- Babylonjs
+- React | Redux | Redux-thunk | Redux-Observable
+- Tailwind
 
 ### Backend development:
 - Nodejs | Express | NestJS
