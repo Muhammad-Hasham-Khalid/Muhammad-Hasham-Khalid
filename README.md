@@ -1,6 +1,10 @@
 ### Hi there 👋, I am Hasham.
 <hr />
 
+<a href="https://linktr.ee/hashiinngg">
+  <img src="https://img.shields.io/badge/connect_with_me-blue?style=for-the-badge" />
+</a>
+
 ### Programming Languages:
 - JavaScript
 - TypeScript
@@ -27,15 +31,3 @@
 - Docker
 - Git
 - Gitlab
-
-### Currently Learning:
-- 3D
-- Rust (for WASM)
-- GoLang (for BE)
-- Elixir (for FUN!)
-
-### How to reach me ?
-
-[<img src="./icons/twitter_icon.png" width="30" height="30">](https://twitter.com/hashiinngg)&nbsp;
-[<img src="./icons/ig_icon.png" width="30" height="30">](https://www.instagram.com/hashiinngg/)&nbsp;
-[<img src="./icons/linkedin_icon.png" width="30" height="30">](https://www.linkedin.com/in/hashiinngg/)
