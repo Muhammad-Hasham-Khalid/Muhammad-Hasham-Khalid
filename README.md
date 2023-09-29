@@ -6,18 +6,18 @@
 </a>
 
 ### Programming Languages:
-- JavaScript
 - TypeScript
+- JavaScript
 - Python
 
 ### Frontend development:
-- HTML | CSS | SCSS | JS | TS
-- Babylonjs
-- React | Redux | Redux-thunk | Redux-Observable
-- Tailwind
+- HTML | CSS | JS | TS
+- BabylonJS
+- ReactJS | Redux | Redux-thunk | Redux-Observable
+- TailwindCSS
 
 ### Backend development:
-- Nodejs | Express | NestJS
+- NodeJS | ExpressJS | NestJS
 - Flask | Django
 
 ### Mobile development:
