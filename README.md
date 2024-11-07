@@ -8,21 +8,18 @@
 ### Programming Languages:
 - TypeScript
 - JavaScript
-- Python
 
 ### Frontend development:
 - HTML | CSS | JS | TS
-- BabylonJS
 - ReactJS | Redux | Redux-thunk | Redux-Observable
 - TailwindCSS
+- NextJS
 
 ### Backend development:
 - NodeJS | ExpressJS | NestJS
-- Flask | Django
 
 ### Mobile development:
 - React Native
-- Flutter
 
 ### Databases:
 - MongoDB | Firebase
