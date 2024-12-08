@@ -22,7 +22,7 @@
 - React Native
 
 ### Databases:
-- MongoDB | Firebase
+- MongoDB | Firebase | Postgres
 
 ### Tools:
 - Docker
