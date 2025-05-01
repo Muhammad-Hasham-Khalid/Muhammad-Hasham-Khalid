@@ -13,7 +13,7 @@
 - HTML | CSS | JS | TS
 - ReactJS | Redux | Redux-thunk | Redux-Observable
 - TailwindCSS
-- NextJS
+- NextJS | Remix
 
 ### Backend development:
 - NodeJS | ExpressJS | NestJS
