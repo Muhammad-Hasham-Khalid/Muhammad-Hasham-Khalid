@@ -1,9 +1,14 @@
 ### Hi there 👋, I am Hasham.
 <hr />
 
-<a href="https://linktr.ee/hashiinngg" target="_blank">
-  <img src="https://img.shields.io/badge/connect_with_me-blue?style=for-the-badge" />
-</a>
+<div style="display:flex;gap:5px;">
+  <a href="https://linktr.ee/hashiinngg" target="_blank">
+    <img src="https://img.shields.io/badge/socials-blue?style=for-the-badge" />
+  </a>
+  <a href="https://cal.com/hashamkhalid" target="_blank">
+    <img src="https://img.shields.io/badge/let's_talk-black?style=for-the-badge" />
+  </a>
+</div>
 
 ### Programming Languages:
 - TypeScript
